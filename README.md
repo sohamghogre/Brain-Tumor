@@ -19,12 +19,11 @@ NeuraScan is a modern, animated UI for brain tumor detection applications. This 
 
 - Node.js 18.0.0 or higher
 - npm or yarn package manager
+
+  
 ![Screenshot 2025-04-28 194745](https://github.com/user-attachments/assets/592021fc-af1f-4ed4-a375-4c1fad5a87e9)
 ![Screenshot 2025-04-28 194845](https://github.com/user-attachments/assets/b54dd174-98ec-4454-b0b9-fd52fdbf7496)
 ![Screenshot 2025-04-28 195018](https://github.com/user-attachments/assets/86b45a3a-211d-4609-9459-cbe57fce0b6d)
-
-
-
 
 
 ## 🔧 Installation
